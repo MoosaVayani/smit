@@ -1,0 +1,13 @@
+interpreter
+"" for alphabets and numeric
+alert(); Method
+console must be open when writing javascript for error detect
+
+
+Chapter : 2
+
+var name (any name)for giving name to variable
+
+
+
+
